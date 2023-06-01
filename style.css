@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.party {
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px;  
+}
